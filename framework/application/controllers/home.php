@@ -32,6 +32,7 @@ class Home_Controller extends Base_Controller {
 
 	public function action_index()
 	{
+		//esta es una prueba de gihub
 		return View::make('home.index');
 	}
 
